@@ -1,1 +1,1 @@
-Various simulations of elastic collisions with matplotlib
+Various simulations of elastic collisions in python with matplotlib
